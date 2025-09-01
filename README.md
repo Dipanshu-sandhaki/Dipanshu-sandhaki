@@ -14,7 +14,7 @@
 - 🌱 Learning: `Next.js`, `Gemini API`, `AI tools for web apps`
 - 🧠 Interested in: **AI x Web**, Productivity Tools, Developer Tools
 - 💼 Open for internships, freelance, and collaboration
-- 🖥️ Portfolio: [my-portfolio.vercel.app](https://my-portfolio-rho-three-94.vercel.app/)
+- 🖥️ Portfolio: [my-portfolio.vercel.app](https://www.dipanshusandhaki.me/)
 
 ---
 
@@ -50,7 +50,7 @@
 
 - 📧 Email: dipanshusandhaki17@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/dipanshusandhaki](https://linkedin.com/in/dipanshusandhaki)  
-- 🌐 Portfolio: [my-portfolio.vercel.app](https://my-portfolio-rho-three-94.vercel.app/)
+- 🌐 Portfolio: [my-portfolio.vercel.app](https://www.dipanshusandhaki.me/)
 
 ---
 
