@@ -14,7 +14,7 @@
 - 🌱 Learning: `Next.js`, `Gemini API`, `AI tools for web apps`
 - 🧠 Interested in: **AI x Web**, Productivity Tools, Developer Tools
 - 💼 Open for internships, freelance, and collaboration
-- 🖥️ Portfolio: [View My Portfolio](https://www.dipanshusandhaki.me/)
+- 🖥️ Portfolio: [www.dipanshusandhaki.me](https://www.dipanshusandhaki.me/)
 
 ---
 
@@ -50,7 +50,7 @@
 
 - 📧 Email: dipanshusandhaki17@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/dipanshusandhaki](https://linkedin.com/in/dipanshusandhaki)  
-- 🌐 Portfolio: [View My Portfolio](https://www.dipanshusandhaki.me/)
+- 🌐 Portfolio: [www.dipanshusandhaki.me](https://www.dipanshusandhaki.me/)
 
 ---
 
